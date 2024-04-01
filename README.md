@@ -1,5 +1,5 @@
 # Amazon-Clone
 <br>
-Amazon Clone
+Amazon Clone.
 <br>
 
